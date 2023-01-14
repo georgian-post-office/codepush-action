@@ -1,4 +1,4 @@
-FROM node:12.18.3
+FROM node:16.19.0
 
 LABEL version="1.1.0"
 LABEL repository="https://github.com/NishanthShankar/codepush-action"
